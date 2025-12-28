@@ -53,7 +53,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=SPKALYAN86&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SPKALYAN86&theme=darkhub&row=1&no-frame=true"/>
 
 
 ---
